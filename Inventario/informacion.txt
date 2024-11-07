@@ -1,0 +1,5 @@
+C010|Azucar|8|60|
+C011|Azucar negra|9|50|
+C012|Harina Blanca|8|100|
+C013|Arroz|12|90|
+C014|Fideo tallarin|5|90|
